@@ -3,7 +3,6 @@
 > A production-ready multi-agent AI system that automates enterprise workflows across CRM & ERP systems with real-time streaming.
 
 **Live Demo:** https://enterprise-ai-agent-delta.vercel.app  
-**GitHub:** https://github.com/rohitguptaxo/enterprise-ai-agent
 
 ---
 
